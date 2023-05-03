@@ -1,0 +1,5 @@
+C:\Users\espin\source\repos\CEPJ\DragRacing\obj\Debug\net6.0\DragRacing.csproj.AssemblyReference.cache
+C:\Users\espin\source\repos\CEPJ\DragRacing\obj\Debug\net6.0\DragRacing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\espin\source\repos\CEPJ\DragRacing\obj\Debug\net6.0\DragRacing.AssemblyInfoInputs.cache
+C:\Users\espin\source\repos\CEPJ\DragRacing\obj\Debug\net6.0\DragRacing.AssemblyInfo.cs
+C:\Users\espin\source\repos\CEPJ\DragRacing\obj\Debug\net6.0\DragRacing.csproj.CoreCompileInputs.cache

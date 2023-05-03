@@ -1,0 +1,15 @@
+C:\Users\espin\source\repos\CEPJ\CafeConLeche\bin\Debug\net6.0\CafeConLeche.exe
+C:\Users\espin\source\repos\CEPJ\CafeConLeche\bin\Debug\net6.0\CafeConLeche.deps.json
+C:\Users\espin\source\repos\CEPJ\CafeConLeche\bin\Debug\net6.0\CafeConLeche.runtimeconfig.json
+C:\Users\espin\source\repos\CEPJ\CafeConLeche\bin\Debug\net6.0\CafeConLeche.dll
+C:\Users\espin\source\repos\CEPJ\CafeConLeche\bin\Debug\net6.0\CafeConLeche.pdb
+C:\Users\espin\source\repos\CEPJ\CafeConLeche\obj\Debug\net6.0\CafeConLeche.csproj.AssemblyReference.cache
+C:\Users\espin\source\repos\CEPJ\CafeConLeche\obj\Debug\net6.0\CafeConLeche.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\espin\source\repos\CEPJ\CafeConLeche\obj\Debug\net6.0\CafeConLeche.AssemblyInfoInputs.cache
+C:\Users\espin\source\repos\CEPJ\CafeConLeche\obj\Debug\net6.0\CafeConLeche.AssemblyInfo.cs
+C:\Users\espin\source\repos\CEPJ\CafeConLeche\obj\Debug\net6.0\CafeConLeche.csproj.CoreCompileInputs.cache
+C:\Users\espin\source\repos\CEPJ\CafeConLeche\obj\Debug\net6.0\CafeConLeche.dll
+C:\Users\espin\source\repos\CEPJ\CafeConLeche\obj\Debug\net6.0\refint\CafeConLeche.dll
+C:\Users\espin\source\repos\CEPJ\CafeConLeche\obj\Debug\net6.0\CafeConLeche.pdb
+C:\Users\espin\source\repos\CEPJ\CafeConLeche\obj\Debug\net6.0\CafeConLeche.genruntimeconfig.cache
+C:\Users\espin\source\repos\CEPJ\CafeConLeche\obj\Debug\net6.0\ref\CafeConLeche.dll
