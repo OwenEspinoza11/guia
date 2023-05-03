@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bBghSZ8lB1tZsic6gwI4iOYfcKf9C9abXnbDtfc1RYD6CBl34GzF3qUd4HKfo0+BAiWZ9WY31o7JKsOcwoRMow==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\espin\\Downloads\\BibliotecaJSON-master\\Biblioteca\\Biblioteca.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\espin\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
